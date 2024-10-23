@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Handyman Services - Home</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Jason William's Services</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="services.html">Services</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>Your Trusted Handyman for Every Job</h2>
+        <p>From small fixes to major repairs, Jason William is here to help. Check out our services page for more details.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Jason William. All rights reserved.</p>
+    </footer>
+</body>
+</html>
