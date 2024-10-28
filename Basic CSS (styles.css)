@@ -3,7 +3,11 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-image: url('images/background.png');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    color: #333; /* Ensures readability on the background */
 }
 
 header {
@@ -29,7 +33,7 @@ nav a:hover {
 
 section {
     padding: 20px;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.9); /* Adds slight transparency */
     margin: 20px auto;
     max-width: 800px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
